@@ -1,0 +1,12 @@
+.student-owner > h1 {
+    color: blueviolet;
+    background-color: darkgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.student-owner > p {
+    color: green;
+    background-color: darkorange;
+    font-size: 0.8em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
