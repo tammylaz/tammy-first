@@ -10,3 +10,9 @@
     font-size: 0.8em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+student-contributor>p{
+    color: chartreuse;
+    background-color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
